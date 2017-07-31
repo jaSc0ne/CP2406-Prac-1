@@ -1,3 +1,5 @@
+package FixDebug;
+
 import javax.swing.JOptionPane;
 
 /**
